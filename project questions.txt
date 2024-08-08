@@ -1,0 +1,88 @@
+----------------------------------------------SQl basic to intermidate questions------------------------------------------------------
+
+
+#display all recored in the deliveryfood table
+
+
+
+#disaplay any two cloumn in your table
+
+ 
+ 
+#write a query to show the person gender with age should be above 22
+
+.
+ 
+#Take any column but show the column without print the duplicate values
+ 
+ 
+ 
+#what is the average age of the respondents
+ 
+ 
+ 
+#how many are male and how many are female'
+ 
+
+ 
+#display the only female in  the gender column along with their age .Then display only who age greaterthan 22.
+ 
+ 
+
+#display the average age of the every occupation.
+
+
+
+#display max latitude and display that value which only one decimal place.
+
+
+
+#which gender hass more postive feedback.
+
+ 
+ 
+# calculate the average family size for each marital status.
+ 
+ 
+ 
+#display a any string column the data in column should be start with any one alphabet letter
+
+
+
+#display the first three columns in any string
+
+
+
+#display the first three columns in any string 
+
+
+
+#display longtiude and latitude with dicmalplaces 4.
+ 
+
+
+#find the top three most common pin codes among the respondents.
+
+
+
+#wrie a query of min(age) of graduate who earn around 20000
+
+
+
+#find the count graduate and post graduate by through education_quaflication
+
+
+#what distribution between latittude and longitude
+
+
+
+#write the relational between educational_qualiflication and monthly_income
+
+
+
+#What is the total feedback count, the number of positive feedbacks, 
+-- and the percentage of positive feedbacks for each combination of
+
+
+
+#what is the total feedback count, the number of positive feedbacks, and the percentage of positive feedbacks for each age group
